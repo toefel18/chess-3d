@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt32bit"/>
+	<classpathentry kind="lib" path="D:/Users/hestersco/Downloads/Java Empowered Design and Implementation/Java Empowered Design and Implementation/Chess 3D/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="D:/Users/hestersco/Downloads/Java Empowered Design and Implementation/Java Empowered Design and Implementation/Chess 3D/jogl.jar"/>
+	<classpathentry kind="lib" path="D:/Users/hestersco/Downloads/Java Empowered Design and Implementation/Java Empowered Design and Implementation/Chess 3D/swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
